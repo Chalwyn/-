@@ -12,5 +12,5 @@ import com.hmdp.entity.User;
  * @since 2021-12-22
  */
 public interface IUserService extends IService<User> {
-
+    //test测试是否能够合并
 }
